@@ -197,7 +197,11 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
+<<<<<<< HEAD
+  mysql2 (~> 0.3.13)
+=======
   mysql2
+>>>>>>> 4bd77cf70ae8506087710464949224d4cd49f663
   rails (= 4.2.4)
   rails_best_practices
   sass-rails (~> 5.0)
